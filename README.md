@@ -6,25 +6,13 @@ This repository contains **practical implementations of the Java Collection Fram
 
 ## 📌 Topics Covered
 
-### 🔹 List Interface
 - ArrayList
 - LinkedList
 - Stack
-
-### 🔹 Set Interface
 - HashSet
-- LinkedHashSet
-- TreeSet
-
-### 🔹 Queue Interface
-- PriorityQueue
-
-
-### 🔹 Map Interface
 - HashMap
-- LinkedHashMap
-- TreeMap
-- Hashtable
+- Hashset
+
 
 ---
 
