@@ -9,7 +9,6 @@ This repository contains **practical implementations of the Java Collection Fram
 ### 🔹 List Interface
 - ArrayList
 - LinkedList
-- Vector
 - Stack
 
 ### 🔹 Set Interface
