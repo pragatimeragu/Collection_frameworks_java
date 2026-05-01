@@ -9,7 +9,6 @@ This repository contains **practical implementations of the Java Collection Fram
 ### 🔹 List Interface
 - ArrayList
 - LinkedList
-- Vector
 - Stack
 
 ### 🔹 Set Interface
@@ -19,7 +18,7 @@ This repository contains **practical implementations of the Java Collection Fram
 
 ### 🔹 Queue Interface
 - PriorityQueue
-- ArrayDeque
+
 
 ### 🔹 Map Interface
 - HashMap
@@ -33,9 +32,7 @@ This repository contains **practical implementations of the Java Collection Fram
 
 - ✔️ Easy-to-understand examples
 - ✔️ CRUD operations (Insert, Delete, Update, Search)
-- ✔️ Internal working explanation
 - ✔️ Comparison between different collections
-- ✔️ Time complexity insights
 - ✔️ Clean and beginner-friendly code
 
 ---
