@@ -13,6 +13,10 @@ This repository contains **practical implementations of the Java Collection Fram
 - HashMap
 - Hashset
 
+Custom implementation code -
+LinkedList - add,delete,print operations
+Reverse Linkedlist
+
 
 ---
 
