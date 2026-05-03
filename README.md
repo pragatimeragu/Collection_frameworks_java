@@ -14,11 +14,8 @@ This repository contains **practical implementations of the Java Collection Fram
 - Hashset
 
 Custom implementation code -
-LinkedList - add,delete,print operations
-Reverse Linkedlist
-
-
----
+- LinkedList - add,delete,print operations
+- Reverse Linkedlist
 
 ## 🚀 Features
 
